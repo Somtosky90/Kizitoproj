@@ -1,2 +1,2 @@
 # Kizitoproj
- Using secondary health data to determine the severity of cardiovascular diseases, through supervised machine learning in order to attain a perfect way of prioritising and improving patient treatment.
+The objective of this project Nexus is to analyse data to find patterns and insights that can help improve patient care and make operations more efficient, with the aim of using it for prediction.
